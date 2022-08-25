@@ -1,0 +1,17 @@
+connexion[swagger-ui]
+Flask
+gunicorn==20.0.4
+lazy-object-proxy==1.4.3
+numpy==1.21.3
+pandas==1.2.4
+Pillow
+protobuf==3.20.*
+requests
+requests-oauthlib==1.3.0
+starlette==0.12.9
+tensorflow-cpu
+transformers
+uvicorn
+websockets
+wheel
+wrapt
